@@ -18,7 +18,7 @@
 //   FILL THESE IN AFTER DEPLOYING THE CLOUDFLARE WORKER
 //   (all three are safe to ship in the client bundle)
 // ═══════════════════════════════════════════════════════════════════
-const WORKER_URL = 'https://tiny-credit-9ad1.gv157167.workers.dev';
+const WORKER_URL = 'https://nuomiji.hghgfjfh9.workers.dev';
 const VAPID_PUBLIC_KEY = 'BAKnuYYBsb6LXnpGApVCpMkumFqDLjZOSDmzjVPx32jIA5fbz-OWaRdk0RH8qftpVuNwzNO-l49CBEwieyezh0g';
 const CLIENT_TOKEN = 'weqwqewqeqwdcsccagdgs32132';
 // ═══════════════════════════════════════════════════════════════════
