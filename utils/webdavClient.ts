@@ -12,7 +12,7 @@
 import { CloudBackupConfig, CloudBackupFile } from '../types';
 
 // Cloudflare Worker 代理地址（与 Notion/飞书等共用同一个 Worker）
-const WORKER_URL = 'https://sully-n.qegj567.workers.dev';
+const WORKER_URL = 'https://nuomiji.hghgfjfh9.workers.dev';
 
 // Build the actual fetch URL — always via CF Worker proxy (bypasses CORS on
 // both browsers and Capacitor WebViews).
